@@ -1,0 +1,31 @@
+.about{
+    background-color:whitesmoke;
+    color: black;
+    padding: 55px;
+}
+.products{
+    background-color: white;
+    color: black;
+    padding: 30px;
+}
+.pic{
+    padding: 30px;
+}
+.text{
+    padding: 30px;
+}
+.card{
+    padding: 70px;
+    background-color:whitesmoke;
+}
+.elec{
+    padding: 80px;
+    background-color: whitesmoke;
+    color: black;
+}
+.end{
+    background-color:whitesmoke;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
